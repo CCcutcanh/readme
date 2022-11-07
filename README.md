@@ -27,7 +27,7 @@ Aki project là một dự án bot discord được tạo chủ yếu bằng th�
     • Nên có một chút kiển thức về Python và code để tránh lỗi trong quá trình chạy. Nhưng không biết cunc không sao cả admin luôn sẵn sàng giúp bạn+)
 </p>
 <h3>Cài Đặt và chạy:</h3>
-<h4>Để cài đặt và chạy được dự án bạn có thể xem hai video hướng dẫn về cách cài đặt với <a href="https://youtu.be/0N-fgXdM2tA">điện thoại</a> và <a href="">máy tính</a></h4>
+<h4>Để cài đặt và chạy được dự án bạn có thể xem 2 video hướng dẫn về cách cài đặt với <a href="https://youtu.be/0N-fgXdM2tA">điện thoại</a> và <a href="">máy tính</a></h4>
 <h3>Kết Quả</h3>
 <h4>Sau các bước trên giờ đây bot đã hoạt động và có thể chạy các lệnh với prefix đã cài đặt</h4>
 
@@ -35,4 +35,11 @@ Aki project là một dự án bot discord được tạo chủ yếu bằng th�
 
 ### Contact
 
-<h3><p>Anh Duc: Discord: Anh Duc#5954 - <a href="https://www.facebook.com/profile.php?id=100026348631060">Facebook</a> - <a href="https://github.com/CCcutcanh">Github</a></p><p>King: </h3>
+<p>Anh Duc: Discord - Anh Duc#5954 | <a href="https://www.facebook.com/profile.php?id=100026348631060">Facebook</a> | <a href="https://github.com/CCcutcanh">Github</a></p>
+<p>King: Discord - King.#4732 | <a href="https://www.facebook.com/letranhoanglanvn">Facebook</a> | <a href= "https://github.com/iotranvn">Github</a></p>
+<p><a href="https://www.facebook.com/profile.php?id=100086701778255">Fanpage Facebook</a>
+
+#### Links
+
+<p><a href ="https://github.com/discord/discord-api-docs">Discord API</a></p>
+<p><a href="https://github.com/Rapptz/discord.py">Discord.py</a></p>
