@@ -1,6 +1,6 @@
 ![Python](https://i.ibb.co/fqxXN6g/FB-IMG-1667750948250.jpg)
 <h1 align=center>AKI PROJECT</h1>
-<h4>Một dự án Bot Discord với thư viện <strong>discord.py</strong> nhầm giúp mọi người trên mọi thiết bị đều có thể tạo bot</h4>
+<h4>Một dự án Bot Discord với thư viện <strong>discord.py</strong> nhằm giúp mọi người trên mọi thiết bị đều có thể tạo bot</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="70" height="22" style= "display: inline"/>
     <img src="https://badgen.net/github/commits/iotranvn/Aki-bot" width="75" height="22"/>
